@@ -1,7 +1,7 @@
 ## Python For Finance Cookbook - Code Repository
 
 **Python For Finance Cookbook**  
-published January xxth, 2020
+published: January xxth, 2020
 
 Paperback: XXX pages  
 Publisher: Packt Publishing  
@@ -14,7 +14,7 @@ Language: English
 - [Amazon Page]()
 - [Packt Page](https://www.packtpub.com/data/python-for-finance-cookbook)
 
-## Table of Contents and Code Notebooks
+## Table of Contents
 
 1. Financial Data and Preprocessing 
 2. Technical Analysis in Python
