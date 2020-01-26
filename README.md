@@ -1,7 +1,6 @@
-## Python For Finance Cookbook Code Repository
+## Python For Finance Cookbook - Code Repository
 
 **Python For Finance Cookbook**  
-
 published January xxth, 2020
 
 Paperback: XXX pages  
@@ -14,7 +13,6 @@ Language: English
 
 - [Amazon Page]()
 - [Packt Page](https://www.packtpub.com/data/python-for-finance-cookbook)
-
 
 ## Table of Contents and Code Notebooks
 
@@ -30,9 +28,6 @@ Language: English
 10. Deep Learning in Finance
 
 --- 
-
-<br>
-<br>
 
 Eryk Lewinson. *Python For Finance Cookbook*. Packt Publishing, 2020.
 
